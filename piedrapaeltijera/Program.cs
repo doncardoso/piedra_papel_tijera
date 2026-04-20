@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Hello, World!");
+
 System.Random random = new System.Random();
 
 
